@@ -1,0 +1,23 @@
+description: "MIROC6 (MIROC6) p1f1 rad-irf data catalog"
+
+plugins:
+  source:
+    - module: intake_xarray
+
+sources:
+  rsu:
+    driver: netcdf
+    args:
+      urlpath: esgf-data/rsu_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc
+  rsd:
+    driver: netcdf
+    args:
+      urlpath: esgf-data/rsd_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc
+  rlu:
+    driver: netcdf
+    args:
+      urlpath: esgf-data/rlu_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc
+  rld:
+    driver: netcdf
+    args:
+      urlpath: esgf-data/rld_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc
