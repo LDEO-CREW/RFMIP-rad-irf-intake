@@ -1,0 +1,1 @@
+rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc 7146b480e41b1042c0705e17f50c4d0f982ae18aa34468055ad832d28e54d93e http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rsu/gn/v20190417/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc
