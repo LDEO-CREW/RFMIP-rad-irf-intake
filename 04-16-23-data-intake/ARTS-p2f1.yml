@@ -1,0 +1,17 @@
+description: "ARTS (ARTS-2-3) p2f1 rad-irf data catalog"
+
+plugins:
+  source:
+    - module: intake_xarray
+
+sources:
+  rlu:
+    driver: netcdf
+    args:
+        urlpath: data/rlu_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc
+
+
+  rld:
+    driver: netcdf
+    args:
+        urlpath: data/rld_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc
