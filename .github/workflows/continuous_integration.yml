@@ -17,4 +17,4 @@ jobs:
     - name: Test 
       run: |
         python download_with_pooch.py
-        python report_availablity.py
+        python report_availability.py
