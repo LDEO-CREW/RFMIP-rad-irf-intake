@@ -8,10 +8,10 @@ sources:
   rlu:
     driver: netcdf
     args:
-        urlpath: esgf-data/rlu_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc
+        urlpath: "{{CATALOG_DIR}}/esgf-data/rlu_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc"
 
 
   rld:
     driver: netcdf
     args:
-        urlpath: esgf-data/rld_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc
+        urlpath: "{{CATALOG_DIR}}/esgf-data/rld_Efx_ARTS-2-3_rad-irf_r1i1p2f1_gn.nc"

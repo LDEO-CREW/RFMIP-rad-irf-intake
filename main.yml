@@ -9,7 +9,7 @@ sources:
     description: Atmospheric conditions for rad-irf
     driver: netcdf
     args:
-      urlpath: esgf-data/rlu_Efx_LBLRTM-12-8_rad-irf_r1i1p1f1_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rlu_Efx_LBLRTM-12-8_rad-irf_r1i1p1f1_gn.nc"
       
   benchmark:
     description: benchmark rad-irf models

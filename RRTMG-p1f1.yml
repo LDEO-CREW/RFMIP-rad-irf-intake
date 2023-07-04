@@ -8,16 +8,16 @@ sources:
   rsu:
     driver: netcdf
     args:
-      urlpath: esgf-data/rsu_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsu_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc"
   rsd:
     driver: netcdf
     args:
-      urlpath: esgf-data/rsd_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsd_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc"
   rlu:
     driver: netcdf
     args:
-      urlpath: esgf-data/rlu_Efx_RRTMG-LW-4-91_rad-irf_r1i1p1f1_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rlu_Efx_RRTMG-LW-4-91_rad-irf_r1i1p1f1_gn.nc"
   rld:
     driver: netcdf
     args:
-      urlpath: esgf-data/rld_Efx_RRTMG-LW-4-91_rad-irf_r1i1p1f1_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rld_Efx_RRTMG-LW-4-91_rad-irf_r1i1p1f1_gn.nc"

@@ -8,18 +8,18 @@ sources:
   rlu:
     driver: netcdf
     args:
-      urlpath: esgf-data/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc"
   rld:
     driver: netcdf
     args:
-      urlpath: esgf-data/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc"
 
   rsu:
     driver: netcdf
     args:
-      urlpath: esgf-data/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc"
 
   rsd:
     driver: netcdf
     args:
-      urlpath: esgf-data/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc"
