@@ -73,6 +73,11 @@ urls = [
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/AER/RRTMG-SW-4-02/rad-irf/r1i1p1f1/Efx/rsd/gn/v20200110/rsd_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc", 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/AER/RRTMG-SW-4-02/rad-irf/r1i1p1f1/Efx/rsu/gn/v20200110/rsu_Efx_RRTMG-SW-4-02_rad-irf_r1i1p1f1_gn.nc",
 
+"http://esgf-data02.diasjp.net/thredds/fileServer/esg_dataroot/CMIP6/RFMIP/MIROC/MIROC6/rad-irf/r1i1p1f1/Efx/rlu/gn/v20230306/rlu_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc",
+"http://esgf-data02.diasjp.net/thredds/fileServer/esg_dataroot/CMIP6/RFMIP/MIROC/MIROC6/rad-irf/r1i1p1f1/Efx/rld/gn/v20230306/rld_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc",
+"http://esgf-data02.diasjp.net/thredds/fileServer/esg_dataroot/CMIP6/RFMIP/MIROC/MIROC6/rad-irf/r1i1p1f1/Efx/rsu/gn/v20230306/rsu_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc",
+"http://esgf-data02.diasjp.net/thredds/fileServer/esg_dataroot/CMIP6/RFMIP/MIROC/MIROC6/rad-irf/r1i1p1f1/Efx/rsd/gn/v20230306/rsd_Efx_MIROC6_rad-irf_r1i1p1f1_gn.nc",
+
 "https://esgdata.gfdl.noaa.gov/thredds/fileServer/gfdl_dataroot4/RFMIP/NOAA-GFDL/GFDL-CM4/rad-irf/r1i1p1f2/Efx/rld/gn/v20180701/rld_Efx_GFDL-CM4_rad-irf_r1i1p1f2_gn.nc",
 "https://esgdata.gfdl.noaa.gov/thredds/fileServer/gfdl_dataroot4/RFMIP/NOAA-GFDL/GFDL-CM4/rad-irf/r1i1p1f2/Efx/rlu/gn/v20180701/rlu_Efx_GFDL-CM4_rad-irf_r1i1p1f2_gn.nc", 
 "https://esgdata.gfdl.noaa.gov/thredds/fileServer/gfdl_dataroot4/RFMIP/NOAA-GFDL/GFDL-CM4/rad-irf/r1i1p1f2/Efx/rsu/gn/v20180701/rsu_Efx_GFDL-CM4_rad-irf_r1i1p1f2_gn.nc", 
