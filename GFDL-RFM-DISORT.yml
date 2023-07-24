@@ -1,0 +1,13 @@
+description: "GFDL-RFM-DISORT rad-irf data catalog"
+
+plugins:
+  source:
+    - module: intake_xarray
+
+sources:
+  p1f1:
+    description: GFDL-RFM-DISORT p1f2
+    args:
+      path: "{{CATALOG_DIR}}/GFDL-RFM-DISORT-p1f2.yml"
+    driver: intake.catalog.local.YAMLFileCatalog
+    metadata: {}

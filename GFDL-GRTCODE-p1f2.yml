@@ -1,0 +1,27 @@
+description: "GFDL-GRTCODE p1f2 rad-irf data catalog"
+
+plugins:
+  source:
+    - module: intake_xarray
+
+sources:
+ rlu:
+    driver: netcdf
+    args:
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rlu_Efx_GFDL-GRTCODE_rad-irf_r1i1p1f2_gn.nc"
+
+ rld:
+    driver: netcdf
+    args:
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rld_Efx_GFDL-GRTCODE_rad-irf_r1i1p1f2_gn.nc"
+ 
+ rsu:
+    driver: netcdf
+    args:
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsu_Efx_GFDL-GRTCODE_rad-irf_r1i1p1f2_gn.nc"
+
+ rsd:
+    driver: netcdf
+    args:
+      urlpath: "{{CATALOG_DIR}}/esgf-data/rsd_Efx_GFDL-GRTCODE_rad-irf_r1i1p1f2_gn.nc"
+ 

@@ -1,4 +1,4 @@
-escription: "GISS-E3-G rad-irf data catalog"
+description: "GISS-E3-G rad-irf data catalog"
 
 plugins:
   source:
