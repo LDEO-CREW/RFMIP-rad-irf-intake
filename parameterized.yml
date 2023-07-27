@@ -29,14 +29,6 @@ sources:
     driver: intake.catalog.local.YAMLFileCatalog
     metadata: {}
 
-  GRTCODE:
-    description: GFDL-GRTCODE
-    engine: netcdf4
-    args:
-      path: "{{CATALOG_DIR}}/GFDL-GRTCODE.yml"
-    driver: intake.catalog.local.YAMLFileCatalog
-    metadata: {}
-
   HadGEM3:
     description: HadGEM3-GCM
     engine: netcdf4
@@ -58,14 +50,6 @@ sources:
     engine: netcdf4
     args:
       path: "{{CATALOG_DIR}}/GFDL.yml"
-    driver: intake.catalog.local.YAMLFileCatalog
-    metadata: {}
-
-  RFM_DISORT:
-    description: GFDL-RFM-DISORT
-    engine: netcdf4
-    args:
-      path: "{{CATALOG_DIR}}/GFDL-RFM-DISORT.yml"
     driver: intake.catalog.local.YAMLFileCatalog
     metadata: {}
 
