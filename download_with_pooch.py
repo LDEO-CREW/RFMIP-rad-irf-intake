@@ -66,10 +66,10 @@ urls = [
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f2/Efx/rsd/gn/v20191031/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f2_gn.nc",
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f2/Efx/rsu/gn/v20191031/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f2_gn.nc",
 
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rld/gn/v20191030/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rlu/gn/v20191030/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rsd/gn/v20191030/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rsu/gn/v20191030/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
+#"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rld/gn/v20191030/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
+#"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rlu/gn/v20191030/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
+#"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rsd/gn/v20191030/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
+#"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p3f3/Efx/rsu/gn/v20191030/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p3f3_gn.nc",
 
 "http://crd-esgf-drc.ec.gc.ca/thredds/fileServer/esgG_dataroot/AR6/CMIP6/RFMIP/CCCma/CanESM5/rad-irf/r1i1p2f2/Efx/rld/gn/v20190429/rld_Efx_CanESM5_rad-irf_r1i1p2f2_gn.nc", 
 "http://crd-esgf-drc.ec.gc.ca/thredds/fileServer/esgG_dataroot/AR6/CMIP6/RFMIP/CCCma/CanESM5/rad-irf/r1i1p2f2/Efx/rlu/gn/v20190429/rlu_Efx_CanESM5_rad-irf_r1i1p2f2_gn.nc", 
@@ -108,12 +108,12 @@ urls = [
 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f2/Efx/rld/gn/v20190605/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f2_gn.nc", 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f2/Efx/rlu/gn/v20190605/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f2_gn.nc", 
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f2/Efx/rsd/gn/v20190605/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f2_gn.nc", 
+# "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f2/Efx/rsd/gn/v20190605/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f2_gn.nc", 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f2/Efx/rsu/gn/v20190605/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f2_gn.nc",
 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rld/gn/v20190417/rld_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc", 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rlu/gn/v20190417/rlu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc", 
-"http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rsd/gn/v20190417/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc", 
+# "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rsd/gn/v20190417/rsd_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc", 
 "http://esgf3.dkrz.de/thredds/fileServer/cmip6/RFMIP/MOHC/HadGEM3-GC31-LL/rad-irf/r1i1p1f3/Efx/rsu/gn/v20190417/rsu_Efx_HadGEM3-GC31-LL_rad-irf_r1i1p1f3_gn.nc",
 
 "http://aims3.llnl.gov/thredds/fileServer/user_pub_work/input4MIPs/CMIP6/RFMIP/UColorado/UColorado-RFMIP-1-2/atmos/fx/multiple/none/v20190401/multiple_input4MIPs_radiation_RFMIP_UColorado-RFMIP-1-2_none.nc",

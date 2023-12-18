@@ -5,22 +5,6 @@ plugins:
     - module: intake_xarray
 
 sources:
-  p3f2:
-    description: HadGEM3-GC31-LL p3f2
-    args:
-      path: "{{CATALOG_DIR}}/HadGEM3-p3f2.yml"
-    driver: intake.catalog.local.YAMLFileCatalog
-    engine: netcdf4
-    metadata: {}
-    
-  p3f3:
-    description: HadGEM3-GC31-LL p3f3
-    args:
-      path: "{{CATALOG_DIR}}/HadGEM3-p3f3.yml"
-    driver: intake.catalog.local.YAMLFileCatalog
-    engine: netcdf4
-    metadata: {}
-
   p2f2:
     description: HadGEM3-GC31-LL p2f2
     args:
